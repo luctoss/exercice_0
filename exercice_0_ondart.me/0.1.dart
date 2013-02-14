@@ -1,8 +1,8 @@
 main() {
-  var changements = 10;
+  var x = 5;
   var y = 7;
   var z = 8;
   var r = "";
-  r = changements-y/z;
+  r = x-y/z;
   print(r);
 }
